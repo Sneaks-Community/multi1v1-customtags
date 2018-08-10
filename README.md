@@ -2,6 +2,8 @@
 
 This plugin appends VIP, Admin, or Donor tags after the Standard "Arena #" clan tag.
 
+![Example](https://share.snksrv.com/i/V0He2w.png)
+
 # Installation
 
 Drag multi1v1_customtags.smx into your /plugins/ folder. Requires Multi-1v1 Arenas by splewis.
